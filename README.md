@@ -50,7 +50,7 @@ A web application that displays information about countries around the world wit
 
 | Endpoint | Description | Example |
 |----------|-------------|---------|
-| `/all` | Get all countries | `https://restcountries.com/v3.1/all` |
+| `/all` | Get all countries | `https://restcountries.com/v3.1/all?fields=name` |
 | `/name/{name}` | Search by country name | `https://restcountries.com/v3.1/name/peru` |
 | `/region/{region}` | Filter by region | `https://restcountries.com/v3.1/region/europe` |
 | `/alpha/{code}` | Get country by code | `https://restcountries.com/v3.1/alpha/col` |

@@ -154,7 +154,7 @@ npm start      # Create React App
 
 ```javascript
 // Prueba en la consola de tu navegador o componente
-fetch('https://restcountries.com/v3.1/all')
+fetch('https://restcountries.com/v3.1/all?fields=name')
   .then(response => response.json())
   .then(data => console.log(data))
   .catch(error => console.error('Error:', error));
