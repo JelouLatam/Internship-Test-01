@@ -14,7 +14,7 @@
 
 Una aplicación web que muestra información sobre países de todo el mundo con las siguientes características:
 
-![Vista Previa del Dashboard de Países](https://via.placeholder.com/800x400?text=Vista+Previa+Dashboard+Paises)
+![Vista Previa del Dashboard de Países](https://ibb.co/v409GL01)
 
 ### Características Principales (Obligatorias)
 

@@ -14,7 +14,7 @@ Welcome to the Jelou React Internship Assessment! In this test, you will build a
 
 A web application that displays information about countries around the world with the following features:
 
-![Countries Dashboard Mockup](https://via.placeholder.com/800x400?text=Countries+Dashboard+Preview)
+![Countries Dashboard Mockup](https://ibb.co/v409GL01)
 
 ### Core Features (Required)
 
